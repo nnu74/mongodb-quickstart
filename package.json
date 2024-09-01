@@ -1,0 +1,16 @@
+{
+    "name": "mongodb-quickstart",
+    "version": "1.0.0",
+    "type": "module",
+    "description": "Run this code with a MongoDB database that has sample code in order to output the number of items from the `comments` collection in `sample_mflix`.",
+    "main": "secrets.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "mongodb": "^6.8.0"
+    }
+}
